@@ -1,5 +1,6 @@
 {
     "name": "pydeck-flowmapgl",
+    "version": "1.0.0",
     "main": "dist/bundle.js",
     "repository": "https://github.com/hasyimibhar/pydeck-flowmapgl",
     "unpkg": "dist/bundle.js",
