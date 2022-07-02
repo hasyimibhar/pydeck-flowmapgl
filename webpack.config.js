@@ -6,8 +6,7 @@ module.exports = [
       filename: './bundle.js'
     },
     target: 'web',
-    externals: ['@deck.gl/core', '@deck.gl/layers', '@luma.gl/core',
-      '@flowmap.gl/data', '@flowmap.gl/layers'],
+    externals: ['@deck.gl/core', '@deck.gl/layers', '@luma.gl/core'],
     devServer: {
       contentBase: __dirname,
       writeToDisk: true,
