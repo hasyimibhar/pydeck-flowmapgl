@@ -9,7 +9,7 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@deck.gl/core@^8.6.4":
+"@deck.gl/core@^8.6.5":
   version "8.8.1"
   resolved "https://registry.yarnpkg.com/@deck.gl/core/-/core-8.8.1.tgz#ec69b995764105d577275d000c7fde67376e780e"
   integrity sha512-Qd3zNzykMmos65AKXTLbyl3j+YAIKUGLebkNsezPoIKj0vzeCZD9mNiOWzjhSaeyGfcFYcadVZuZIx1E65Jv7Q==
@@ -28,7 +28,7 @@
     math.gl "^3.6.0"
     mjolnir.js "^2.7.0"
 
-"@deck.gl/layers@^8.6.4":
+"@deck.gl/layers@^8.6.5":
   version "8.8.1"
   resolved "https://registry.yarnpkg.com/@deck.gl/layers/-/layers-8.8.1.tgz#ac22acb81249ad91a728728eab8ef7d22be9d2b8"
   integrity sha512-Nmv6AlE7Na1RuPhGzAubDe8g2bRfi7IkKF++9GGbDv6IqxrZKr2+BXp9YQops9JnzkePpgzmcj+Ik2VAIBoP+A==
@@ -113,12 +113,12 @@
   dependencies:
     "@babel/runtime" "^7.3.1"
 
-"@luma.gl/constants@8.5.14", "@luma.gl/constants@^8.5.14":
+"@luma.gl/constants@8.5.14", "@luma.gl/constants@^8.5.10", "@luma.gl/constants@^8.5.14":
   version "8.5.14"
   resolved "https://registry.yarnpkg.com/@luma.gl/constants/-/constants-8.5.14.tgz#929e7799ad878af00b30ec0e8ccec2880649dfbb"
   integrity sha512-GPZlnOpXLnW4fkER/sOSlXEZl+uwovvMlSPpEdofIHdNxG4oOdZlDuLc5K+NAJ9Fm+3AbDfCOihcA6WOsVuT5Q==
 
-"@luma.gl/core@^8.5.14":
+"@luma.gl/core@^8.5.10", "@luma.gl/core@^8.5.14":
   version "8.5.14"
   resolved "https://registry.yarnpkg.com/@luma.gl/core/-/core-8.5.14.tgz#7f728c00b9c92ce647db877bdb6204300c4d9cfc"
   integrity sha512-YgXxWzBNnoIuo6BTsJdK9tfFBWSzmhqeCGsbGMOVimSRXNMDBXATDL5c/J8pkVSbphjhk5aSOmhUC7C5WzKKYQ==
