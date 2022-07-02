@@ -1,0 +1,21 @@
+{
+    "name": "pydeck-flowmapgl",
+    "main": "dist/bundle.js",
+    "repository": "https://github.com/hasyimibhar/pydeck-flowmapgl",
+    "unpkg": "dist/bundle.js",
+    "dependencies": {
+        "@deck.gl/core": "^8.6.4",
+        "@deck.gl/layers": "^8.6.4",
+        "@flowmap.gl/data": "^8.0.0-alpha.25",
+        "@flowmap.gl/layers": "^8.0.0-alpha.25"
+    },
+    "devDependencies": {
+        "webpack": "^4.42.1",
+        "webpack-cli": "^4.2.0",
+        "webpack-dev-server": "^3.11.0"
+    },
+    "scripts": {
+        "start": "npm install",
+        "build": "rm -rf dist && mkdir dist && webpack"
+    }
+}
