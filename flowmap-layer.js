@@ -1,5 +1,5 @@
 import { FlowmapLayer as Flowmap } from '@flowmap.gl/layers';
-import { CompositeLayer } from './deck-layers';
+import { CompositeLayer } from '@deck.gl/core';
 
 const config = {
   darkMode: true,
